@@ -1,0 +1,1 @@
+A/post-checkout.sh filter=lfs diff=lfs merge=lfs
